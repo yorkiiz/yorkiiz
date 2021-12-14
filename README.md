@@ -6,7 +6,7 @@
   <a href="https://wakatime.com/@Tian"><img src="https://wakatime.com/badge/user/938325ad-aa1b-4e8a-8efd-04fff7660bd5.svg" alt="Total time coded since Dec 13 2019" /></a>
 </p>
 
-<img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
+<img align='right' src="https://profile-counter.glitch.me/yorkiiz/count.svg" alt="访客数量"/>
 
 - 📚**工作**：4年
 - 💻**后端**：Java，C++

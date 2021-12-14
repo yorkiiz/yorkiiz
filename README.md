@@ -8,16 +8,18 @@
 
 <img align='right' src="https://profile-counter.glitch.me/eternidad33/count.svg" alt="访客数量"/>
 
-- 📚**考研**：数一，英一，408
-- 💻**后端**：Java，Python，C++
+- 📚**工作**：4年
+- 💻**后端**：Java，C++
 - 📝**前端**：HTML，CSS，JS
-- 💼**数据库**：MySQL，Redis
+- 💼**数据库**：MySQL，Oracle，db2
 
 **上周编码时长**  
 
 <!--START_SECTION:waka-->
 ```text
 Week: 05 December, 2021 - 12 December, 2021
+
+----------------------------刚刚复制的主页，还在编辑中--------------------------------
 
 💬 编程语言: 
 No Activity tracked this Week

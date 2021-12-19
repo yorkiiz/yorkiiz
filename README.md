@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/yorkiiz"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://gitee.com/yorkiiz"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
-  <a href="https://www.cnblogs.com/yorkiiz/"><img src="https://img.shields.io/badge/blog-blog-yellow" alt="Total time coded since Dec 13 2019" /></a>
+  <a href="https://www.cnblogs.com/yorkiiz/"><img src="https://img.shields.io/badge/blog-yellow" alt="Total time coded since Dec 13 2019" /></a>
 </p>
 
 <img align='right' src="https://profile-counter.glitch.me/yorkiiz/count.svg" alt="访客数量"/>

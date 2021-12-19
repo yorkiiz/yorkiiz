@@ -10,7 +10,7 @@
 - 📚**工作**：4年
 - 💻**后端**：Java，C++
 - 📝**前端**：HTML，CSS，JS
-- 💼**数据库**：MySQL，Oracle，db2
+- 💼**数据库**：MySQL，Oracle，db2,redis
 
 **上周编码时长**  
 

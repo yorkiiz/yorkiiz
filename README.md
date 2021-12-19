@@ -18,16 +18,16 @@
 ```text
 Week: 05 December, 2021 - 12 December, 2021
 
-----------------------------刚刚复制的主页，还在编辑中--------------------------------
+
 
 💬 编程语言: 
-No Activity tracked this Week
+java,C++,vb,shell
 
 🔥 常用编辑器: 
-No Activity tracked this Week
+idea,eclipse
 
 💻 操作系统: 
-No Activity tracked this Week
+centos7
 
 ```
 
@@ -39,7 +39,6 @@ No Activity tracked this Week
 
 <br/>
 
-> 动态太少，不好意思展示
 > 
 > 下面的GitHub统计信息是来自于[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)项目，里边有[中文文档](https://github.com/anuraghazra/github-readme-stats/blob/master/readme_cn.md)
 

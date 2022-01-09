@@ -45,6 +45,9 @@ centos7
 <a href="https://github.com/yorkiiz/yorkiiz">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yorkiiz&show_icons=true" />
 </a>
+<br/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yorkiiz&layout=compact" /> 
+   
 </details>
 
 

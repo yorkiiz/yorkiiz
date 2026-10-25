@@ -5,7 +5,7 @@
   <a href="https://www.cnblogs.com/yorkiiz/"><img src="https://img.shields.io/badge/blog-yellow" alt="blog" /></a>
 </p>
 
-<img align='right' src="https://profile-counter.glitch.me/yorkiiz/count.svg" alt="访客数量"/>
+<img align='right' src="https://count.getloli.com/get/@yorkiiz?theme=rule34" alt="访客数量"/>
 
 - 💼 **后端开发**：9 年，主攻 Java
 - 🔧 **后端技术栈**：Spring Boot / Spring Security + JWT / MyBatis-Plus / RabbitMQ
